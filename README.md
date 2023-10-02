@@ -16,6 +16,3 @@ This program uses Euclid's algorithm to calculate the Greatest Common Factor (GC
 2. Input the first and second integers for GCF calculation.
 3. Observe the GCF result and the common factors of the provided integers.
 4. Choose whether to run the program again or exit.
-
-## **Educational Purpose**
-This program is an educational resource for students and enthusiasts who want to understand the concept of finding the Greatest Common Factor and exploring common factors in a practical and interactive manner.
